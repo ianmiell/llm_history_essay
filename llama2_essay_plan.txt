@@ -1,38 +1,79 @@
 >>> how different was old liberalism from new liberalism
 
-Old liberalism and new liberalism are two distinct political ideologies that have evolved over time, with some key differences.
+Old liberalism and new liberalism are two distinct political ideologies that
+have evolved over time, with some key differences.
 
-1. Economic views: Old liberalism emphasized the importance of economic freedom and believed in laissez-faire capitalism, where the government's role was limited
-to protecting property rights and maintaining public order. In contrast, new liberalism advocates for a more active role for government in regulating the economy
-and addressing issues such as income inequality and environmental degradation.
-2. Social views: Old liberalism tended to focus on individual rights and freedoms, with a belief that society would naturally become more equal and just as long
-as individuals were free to pursue their own interests. New liberalism places greater emphasis on social justice and equality, recognizing that individual
-freedom is not always enough to ensure that everyone has an equal chance to succeed.
-3. Role of government: Old liberals saw government intervention in the economy as a threat to individual liberty and believed that the state should only provide
-public goods that cannot be effectively provided by the private sector. New liberals, on the other hand, believe that the government has a responsibility to play
-an active role in addressing social and economic problems, such as poverty, discrimination, and access to healthcare.
-4. Attitudes towards markets: Old liberalism had faith in the ability of markets to allocate resources efficiently and believed that government intervention
-would often do more harm than good. New liberalism recognizes that markets can fail and that government intervention may be necessary to correct these failures
-and promote social welfare.
-5. International relations: Old liberalism tended to focus on the idea of state sovereignty and non-intervention in international affairs. New liberals, however,
-believe that global problems require global solutions and support greater international cooperation and the establishment of international institutions to
-address issues such as climate change, human rights, and economic development.
-6. Social justice: Old liberalism tended to focus on individual rights and freedoms, while new liberalism places a greater emphasis on social justice and
-equality. New liberals recognize that individual freedom is not always enough to ensure that everyone has an equal chance to succeed and believe that government
-policies should actively promote social justice and address issues such as discrimination and inequality.
-7. Environmental policy: Old liberalism tended to neglect environmental concerns, while new liberalism places a greater emphasis on protecting the environment
-and addressing climate change. New liberals recognize that environmental degradation can have severe consequences for human well-being and support government
-policies to promote sustainable development and reduce carbon emissions.
-8. Economic justice: Old liberalism tended to focus on economic growth and believed that it would naturally benefit all members of society. New liberals,
-however, recognize that economic growth can often come at the expense of certain groups, such as workers or the environment, and support policies that promote
-greater economic justice, such as progressive taxation, labor rights, and social welfare programs.
-9. Human rights: Old liberalism tended to focus on individual rights and freedoms, while new liberalism places a greater emphasis on human rights and social
-justice. New liberals recognize that individual freedom is not always enough to ensure that everyone has an equal chance to succeed and support government
-policies that promote human rights and address issues such as discrimination and inequality.
-10. Role of civil society: Old liberalism tended to neglect the role of civil society in promoting social justice and human rights. New liberals, however,
-recognize the importance of civil society organizations in advancing social justice and human rights and support government policies that promote their work and
-impact.
+1. Economic views: Old liberalism emphasized the importance of economic freedom
+and believed in laissez-faire capitalism, where the government's role was
+limited to protecting property rights and maintaining public order. In
+contrast, new liberalism advocates for a more active role for government in
+regulating the economy and addressing issues such as income inequality and
+environmental degradation.
 
-In summary, while old liberalism and new liberalism share some similarities, they have distinct approaches to issues such as economic regulation, social justice,
-environmental policy, and international relations. New liberalism places a greater emphasis on promoting social justice, addressing market failures, and
-supporting international cooperation, while old liberalism tends to focus more on individual freedom and limited government intervention.
+2. Social views: Old liberalism tended to focus on individual rights and
+freedoms, with a belief that society would naturally become more equal and just
+as long as individuals were free to pursue their own interests. New liberalism
+places greater emphasis on social justice and equality, recognizing that
+individual freedom is not always enough to ensure that everyone has an equal
+chance to succeed.
+
+3. Role of government: Old liberals saw government intervention in the economy
+as a threat to individual liberty and believed that the state should only
+provide public goods that cannot be effectively provided by the private sector.
+New liberals, on the other hand, believe that the government has a
+responsibility to play an active role in addressing social and economic
+problems, such as poverty, discrimination, and access to healthcare.
+
+4. Attitudes towards markets: Old liberalism had faith in the ability of
+markets to allocate resources efficiently and believed that government
+intervention would often do more harm than good. New liberalism recognizes that
+markets can fail and that government intervention may be necessary to correct
+these failures and promote social welfare.
+
+5. International relations: Old liberalism tended to focus on the idea of state
+sovereignty and non-intervention in international affairs. New liberals,
+however, believe that global problems require global solutions and support
+greater international cooperation and the establishment of international
+institutions to address issues such as climate change, human rights, and
+economic development.
+
+6. Social justice: Old liberalism tended to focus on individual rights and
+freedoms, while new liberalism places a greater emphasis on social justice and
+equality. New liberals recognize that individual freedom is not always enough
+to ensure that everyone has an equal chance to succeed and believe that
+government policies should actively promote social justice and address issues
+such as discrimination and inequality.
+
+7. Environmental policy: Old liberalism tended to neglect environmental
+concerns, while new liberalism places a greater emphasis on protecting the
+environment and addressing climate change. New liberals recognize that
+environmental degradation can have severe consequences for human well-being and
+support government policies to promote sustainable development and reduce
+carbon emissions.
+
+8. Economic justice: Old liberalism tended to focus on economic growth and
+believed that it would naturally benefit all members of society. New liberals,
+however, recognize that economic growth can often come at the expense of
+certain groups, such as workers or the environment, and support policies that
+promote greater economic justice, such as progressive taxation, labor rights,
+and social welfare programs.
+
+9. Human rights: Old liberalism tended to focus on individual rights and
+freedoms, while new liberalism places a greater emphasis on human rights and
+social justice. New liberals recognize that individual freedom is not always
+enough to ensure that everyone has an equal chance to succeed and support
+government policies that promote human rights and address issues such as
+discrimination and inequality.
+
+10. Role of civil society: Old liberalism tended to neglect the role of civil
+society in promoting social justice and human rights. New liberals, however,
+recognize the importance of civil society organizations in advancing social
+justice and human rights and support government policies that promote their
+work and impact.
+
+In summary, while old liberalism and new liberalism share some similarities,
+they have distinct approaches to issues such as economic regulation, social
+justice, environmental policy, and international relations. New liberalism
+places a greater emphasis on promoting social justice, addressing market
+failures, and supporting international cooperation, while old liberalism tends
+to focus more on individual freedom and limited government intervention.
