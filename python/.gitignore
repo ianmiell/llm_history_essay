@@ -1,0 +1,6 @@
+.env
+*cfg
+share
+lib
+include
+bin
