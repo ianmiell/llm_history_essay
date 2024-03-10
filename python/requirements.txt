@@ -158,8 +158,8 @@ traitlets==5.14.1
 typer==0.9.0
 typing-inspect==0.9.0
 typing_extensions==4.10.0
-unstructured==0.12.5
-unstructured-client==0.21.1
+unstructured
+unstructured-client
 urllib3==2.2.1
 uvicorn==0.27.1
 uvloop==0.19.0
