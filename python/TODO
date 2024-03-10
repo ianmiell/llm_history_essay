@@ -1,0 +1,5 @@
+Go through tools:
+
+lib/python3.12/site-packages/langchain_community/tools
+
+eg look at human in combination with searcher.
