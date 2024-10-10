@@ -3,3 +3,9 @@ Go through tools:
 lib/python3.12/site-packages/langchain_community/tools
 
 eg look at human in combination with searcher.
+
+HumanInputRun
+
+
+See eg:
+from langchain_community.utilities.merriam_webster import MerriamWebsterAPIWrapper from tool code.
