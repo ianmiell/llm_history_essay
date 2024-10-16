@@ -215,7 +215,9 @@ of this shift.
 
 ________________
 
->>> give examples from collini's work of his critiques of weiler's ideas
+QUESTION: give examples from collini's work of his critiques of weiler's ideas
+
+ANSWER:
 
  Stefan Collini's work offers several critiques of Paul Weiler's ideas on new
 liberalism. Here are some examples:
@@ -601,3 +603,4 @@ autonomy and collective action in addressing social and economic inequalities
 evolved over time, from an initial emphasis on individual freedom to a
 recognition of the importance of collective action, social justice, and state
 intervention.
+________________

@@ -1,4 +1,6 @@
->>> how different was old liberalism from new liberalism
+QUESTION: how different was old liberalism from new liberalism
+
+ANSWER:
 
 Old liberalism and new liberalism are two distinct political ideologies that
 have evolved over time, with some key differences.
@@ -77,3 +79,6 @@ justice, environmental policy, and international relations. New liberalism
 places a greater emphasis on promoting social justice, addressing market
 failures, and supporting international cooperation, while old liberalism tends
 to focus more on individual freedom and limited government intervention.
+
+
+_______________
